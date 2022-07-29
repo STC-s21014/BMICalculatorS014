@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BMI表示アプリ</string>
+    <string name="tx_age">年齢</string>
+    <string name="tx_tosi">歳</string>
+    <string name="tx_hei">身長</string>
+    <string name="tx_cm">cm</string>
+    <string name="tx_wei">体重</string>
+    <string name="tx_kg">kg</string>
+    <string name="tx_cal">計算</string>
+    <string name="tx_cle">クリア</string>
+    <string name="tx_bmi">あなたの肥満度は</string>
+    <string name="tx_youkg">あなたの適正体重は</string>
+    <string name="tx_lobmi">低体重(痩せ型)</string>
+    <string name="tx_nombmi">普通体重</string>
+    <string name="tx_bmi1">肥満(1度)</string>
+    <string name="tx_bmi2">肥満(2度)</string>
+    <string name="tx_bmi3">肥満(3度)</string>
+    <string name="tx_bmi4">肥満(4度)</string>
+    <string name="log_title">警告</string>
+    <string name="log_tx">適切な肥満度を求めるためには、6歳未満の場合はカウブ指数、6歳から15歳まではローレル指数が使われます。</string>
+    <string name="log_ok">確認</string>
+    <string name="tx_gariover">痩せすぎ</string>
+    <string name="tx_gari">痩せ気味</string>
+    <string name="tx_nom">普通</string>
+    <string name="tx_debu">太り気味</string>
+    <string name="tx_debuover">太りすぎ</string>
+</resources>
